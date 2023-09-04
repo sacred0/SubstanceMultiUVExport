@@ -1,5 +1,12 @@
 # Substance Multi-UV Export
-Creates duplicate meshes for every UV map and every material of the selected meshes to allow for painting with different UV Maps in Substance Painter.
+Creates duplicate meshes for every UV map of the selected meshes to allow for painting with different UV maps in Substance Painter.
+Supports unlimited UV maps, materials, and meshes.
+
+![SMUVE_b1](https://github.com/sacred0/SubstanceMultiUVExport/assets/105738663/c01a68d7-d48a-4aac-b80b-20bbbfbc248b)
+![SMUVE_b2](https://github.com/sacred0/SubstanceMultiUVExport/assets/105738663/12517bd4-a645-4f8d-8bf9-557bed0f05ee)
+![SMUVE_s1](https://github.com/sacred0/SubstanceMultiUVExport/assets/105738663/b6dbff18-7e4b-404e-8b54-728e0e6c293e)
+
+
 
 # Installation
 - Download latest .py script from Releases
